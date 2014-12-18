@@ -1,0 +1,9 @@
+D:\ASP CODE\17-12-2014\StudentInfoApps\StudentInfoApps\bin\Debug\StudentInfoApps.exe.config
+D:\ASP CODE\17-12-2014\StudentInfoApps\StudentInfoApps\bin\Debug\StudentInfoApps.exe
+D:\ASP CODE\17-12-2014\StudentInfoApps\StudentInfoApps\bin\Debug\StudentInfoApps.pdb
+D:\ASP CODE\17-12-2014\StudentInfoApps\StudentInfoApps\obj\Debug\StudentInfoApps.csprojResolveAssemblyReference.cache
+D:\ASP CODE\17-12-2014\StudentInfoApps\StudentInfoApps\obj\Debug\StudentInfoApps.StudentInfoUI.resources
+D:\ASP CODE\17-12-2014\StudentInfoApps\StudentInfoApps\obj\Debug\StudentInfoApps.Properties.Resources.resources
+D:\ASP CODE\17-12-2014\StudentInfoApps\StudentInfoApps\obj\Debug\StudentInfoApps.csproj.GenerateResource.Cache
+D:\ASP CODE\17-12-2014\StudentInfoApps\StudentInfoApps\obj\Debug\StudentInfoApps.exe
+D:\ASP CODE\17-12-2014\StudentInfoApps\StudentInfoApps\obj\Debug\StudentInfoApps.pdb
